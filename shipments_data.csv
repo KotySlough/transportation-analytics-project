@@ -1,0 +1,11 @@
+ShipmentID,Carrier,OriginCity,DestinationCity,ShipmentCost,DistanceMiles
+SH-1001,Speedy Freight,Chicago,Dallas,1850.75,967
+SH-1002,Alpha Logistics,Chicago,Dallas,1910.50,967
+SH-1003,Omega Transport,Los Angeles,Phoenix,850.20,373
+SH-1004,Speedy Freight,Atlanta,Miami,975.00,661
+SH-1005,Alpha Logistics,Los Angeles,Phoenix,820.00,373
+SH-1006,Omega Transport,Chicago,Dallas,1825.00,967
+SH-1007,Speedy Freight,Los Angeles,Phoenix,880.50,373
+SH-1008,Alpha Logistics,Atlanta,Miami,950.80,661
+SH-1009,Omega Transport,Atlanta,Miami,1010.00,661
+SH-1010,Speedy Freight,Chicago,Dallas,1895.25,967
